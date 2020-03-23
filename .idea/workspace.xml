@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52159bca-2ded-49c2-9ffe-7639ae0bec8c" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIjGcmvFVvWLAQTUExiEBZuDkH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/unittest/test_web" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\unittest\test_case" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\unittest\test_web" />
+      <recent name="C:\Users\Administrator\PycharmProjects\unittest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_leap_year">
+    <configuration name="Appium_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/Appium_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="appium_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/appium_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="appium_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/appium_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leap_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/test_case/leap_year.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_leap_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest/test_case/test_leap_year.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_leap_year" />
+        <item itemvalue="Python.leap_year" />
+        <item itemvalue="Python.appium_01" />
+        <item itemvalue="Python.appium_02" />
+        <item itemvalue="Python.Appium_03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52159bca-2ded-49c2-9ffe-7639ae0bec8c" name="默认更改列表" comment="" />
+      <created>1580740407456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580740407456</updated>
+      <workItem from="1580740408916" duration="12000" />
+      <workItem from="1582081058595" duration="1290000" />
+      <workItem from="1582248729655" duration="7403000" />
+      <workItem from="1582282710614" duration="626000" />
+      <workItem from="1582337079186" duration="2423000" />
+      <workItem from="1582363740096" duration="4118000" />
+      <workItem from="1582424966365" duration="8939000" />
+      <workItem from="1582504731426" duration="5913000" />
+      <workItem from="1582536698458" duration="3202000" />
+      <workItem from="1582588350502" duration="4111000" />
+      <workItem from="1582623352836" duration="602000" />
+      <workItem from="1582685495740" duration="3979000" />
+      <workItem from="1582761149254" duration="4239000" />
+      <workItem from="1582800980902" duration="601000" />
+      <workItem from="1582845673689" duration="9330000" />
+      <workItem from="1582860681927" duration="1221000" />
+      <workItem from="1582862582574" duration="2724000" />
+      <workItem from="1582942033745" duration="6689000" />
+      <workItem from="1582968986883" duration="1352000" />
+      <workItem from="1583032832681" duration="37000" />
+      <workItem from="1583046377375" duration="8677000" />
+      <workItem from="1583116200529" duration="33000" />
+      <workItem from="1583122559546" duration="894000" />
+      <workItem from="1583193018971" duration="9797000" />
+      <workItem from="1583280375869" duration="1423000" />
+      <workItem from="1583282128815" duration="6687000" />
+      <workItem from="1583288879385" duration="5488000" />
+      <workItem from="1583372333419" duration="13420000" />
+      <workItem from="1583461300832" duration="10235000" />
+      <workItem from="1583550598883" duration="11807000" />
+      <workItem from="1583576074955" duration="1283000" />
+      <workItem from="1583746234461" duration="362000" />
+      <workItem from="1583746633714" duration="819000" />
+      <workItem from="1583804073732" duration="412000" />
+      <workItem from="1583806955844" duration="2420000" />
+      <workItem from="1583815305107" duration="1403000" />
+      <workItem from="1583817352934" duration="55000" />
+      <workItem from="1583818675261" duration="4171000" />
+      <workItem from="1583827234684" duration="1041000" />
+      <workItem from="1583830340055" duration="1108000" />
+      <workItem from="1583910439498" duration="597000" />
+      <workItem from="1583912444321" duration="682000" />
+      <workItem from="1583917237008" duration="2261000" />
+      <workItem from="1583919893739" duration="504000" />
+      <workItem from="1583920475315" duration="253000" />
+      <workItem from="1583920827318" duration="517000" />
+      <workItem from="1583923357349" duration="3574000" />
+      <workItem from="1583930342331" duration="3318000" />
+      <workItem from="1583971763544" duration="2580000" />
+      <workItem from="1583997403904" duration="539000" />
+      <workItem from="1584073533791" duration="592000" />
+      <workItem from="1584154837322" duration="1793000" />
+      <workItem from="1584324722310" duration="66000" />
+      <workItem from="1584436285178" duration="109000" />
+      <workItem from="1584940027928" duration="3308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="606" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583288950167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583288950167" />
+    <state x="527" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583280229948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1583280229948" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583051104458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583051104458" />
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom" timestamp="1584945210292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584945210292" />
+    <state width="1493" height="182" key="GridCell.Tab.0.center" timestamp="1584945210291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584945210291" />
+    <state width="1493" height="182" key="GridCell.Tab.0.left" timestamp="1584945210291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584945210291" />
+    <state width="1493" height="182" key="GridCell.Tab.0.right" timestamp="1584945210291">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584945210291" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1583572379554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583572379554" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1583572379553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583572379553" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1583572379553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583572379553" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1583572379554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583572379554" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1583810718097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583810718097" />
+    <state x="215" y="14" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583285984438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="215" y="14" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1583285984438" />
+    <state x="452" y="11" width="632" height="801" key="find.popup" timestamp="1584946784185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="11" width="632" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584946784185" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583569556176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583569556176" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$run_tests.coverage" NAME="run_tests Coverage Results" MODIFIED="1583465401860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu.coverage" NAME="test_baidu Coverage Results" MODIFIED="1583577710792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page_Object" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_leap_year.coverage" NAME="test_leap_year Coverage Results" MODIFIED="1584940570008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_case" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$123.coverage" NAME="123 Coverage Results" MODIFIED="1582862666030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_expand" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$appium_02.coverage" NAME="appium_02 Coverage Results" MODIFIED="1583932929060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selenium_01.coverage" NAME="selenium_01 Coverage Results" MODIFIED="1582855864889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$my.coverage" NAME="my Coverage Results" MODIFIED="1582340816785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu2.coverage" NAME="test_baidu2 Coverage Results" MODIFIED="1582857142941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_calculator.coverage" NAME="test_calculator Coverage Results" MODIFIED="1582428167954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_calculator_un2.coverage" NAME="test_calculator_un2 Coverage Results" MODIFIED="1582513927514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_for_test_baidu_TestBaidu.coverage" NAME="Unittests for test_baidu.TestBaidu Coverage Results" MODIFIED="1582855889387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu_data.coverage" NAME="test_baidu_data Coverage Results" MODIFIED="1583052971816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_test_calculator_un2_py.coverage" NAME="Unittests in test_calculator_un2.py Coverage Results" MODIFIED="1582513392552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Appium_03.coverage" NAME="Appium_03 Coverage Results" MODIFIED="1583932388444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu_ddt.coverage" NAME="test_baidu_ddt Coverage Results" MODIFIED="1583286557067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$calculator_un.coverage" NAME="calculator_un Coverage Results" MODIFIED="1582428242230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selenium_12.coverage" NAME="selenium_12 Coverage Results" MODIFIED="1582160107668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1582863250357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_expand" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$appium_01.coverage" NAME="appium_01 Coverage Results" MODIFIED="1584940513081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1584940550118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_case" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$send_mail_chongshi.coverage" NAME="send_mail_chongshi Coverage Results" MODIFIED="1583464173799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu_ddt_json.coverage" NAME="test_baidu_ddt_json Coverage Results" MODIFIED="1583289311341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu_parameterized.coverage" NAME="test_baidu_parameterized Coverage Results" MODIFIED="1583122750012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$send_mail_text.coverage" NAME="send_mail_text Coverage Results" MODIFIED="1583379525438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1583464650517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unittests_in_test_baidu_data_py.coverage" NAME="Unittests in test_baidu_data.py Coverage Results" MODIFIED="1583052543185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$assert.coverage" NAME="assert Coverage Results" MODIFIED="1582530178693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_skip.coverage" NAME="test_skip Coverage Results" MODIFIED="1582687607301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test_baidu_ddt_yaml.coverage" NAME="test_baidu_ddt_yaml Coverage Results" MODIFIED="1583291394891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/test_web" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selenium_02.coverage" NAME="selenium_02 Coverage Results" MODIFIED="1582160172359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+  </component>
+</project>
